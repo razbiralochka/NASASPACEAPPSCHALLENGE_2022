@@ -1,3 +1,3 @@
 # NASASPACEAPPSCHALLENGE_2022
 
-Author [dbekaert](https://github.com/dbekaert)
+Credit: [dbekaert](https://github.com/dbekaert)
